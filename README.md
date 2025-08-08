@@ -19,5 +19,4 @@ This project trains a neural network (RNN) on the IMDb dataset to classify movie
 
 ---
 
-## ​​​ Repository Structure
 
